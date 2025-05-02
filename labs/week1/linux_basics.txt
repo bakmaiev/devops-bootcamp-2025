@@ -1,0 +1,16 @@
+bakmaiev
+Linux DESKTOP-HSFTCSD 5.15.167.4-microsoft-standard-WSL2 #1 SMP Tue Nov 5 00:21:55 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        48 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               8
+On-line CPU(s) list:                  0-7
+Vendor ID:                            AuthenticAMD
+Model name:                           AMD Ryzen 5 3400G with Radeon Vega Graphics
+CPU family:                           23
+Model:                                24
+
+## Links
+Hard link points directly to the same data on disk and remains valid even if the original file is deleted
+Symlink points to the file path and breaks if the original file is deleted or moved 
